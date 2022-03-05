@@ -5,7 +5,7 @@
 
 ## Description
 
-A joke generator - users can request a random dad joke.
+A joke generator. Users can request a random dad joke.
 
 ## Design
 
